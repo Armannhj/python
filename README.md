@@ -1,2 +1,2 @@
 # python
-Project for beginner teachers
+python Rasberry pi Project for beginner´s
