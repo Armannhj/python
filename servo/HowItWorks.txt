@@ -1,0 +1,3 @@
+
+Hér er krækja sem sýnir hvernig servomotor virkar
+http://www.jameco.com/jameco/workshop/howitworks/how-servo-motors-work.html
