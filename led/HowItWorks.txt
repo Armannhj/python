@@ -1,0 +1,2 @@
+Síða sem sýnir virkni LED
+http://electronics.howstuffworks.com/led1.htm
