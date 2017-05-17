@@ -31,7 +31,7 @@ hvenig :-) (Goooooogla)
 * vírar til að klippa niður fyrir breadboard helst rauður og svartur
 ## Ítarefni
 * Hvernig virkar Led http://electronics.howstuffworks.com/led1.htm
-* Hvenig virkar Servomótor 
+* Hvenig virkar Servomótor http://www.jameco.com/jameco/workshop/howitworks/how-servo-motors-work.html
 * Hvernig virkar UltraSonic RangeFinder
 Krækjur sem koma sér vel
 * Rasberry- pi http://www.instructables.com/id/Building-robots-with-Raspberry-Pi-and-Python/
