@@ -43,3 +43,4 @@ Krækjur sem koma sér vel
 * https://www.adafruit.com/
 * Allt um Rafrásir /rökrásir/borð/sensora https://www.sparkfun.com/
 * Arduino.io https://www.arduino.cc/
+* Tól til að búa til flæðirit, nauðsynlegt í robotics https://www.draw.io/
