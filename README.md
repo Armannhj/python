@@ -29,7 +29,10 @@ hvenig :-) (Goooooogla)
 * 8 stk jumper vírar (karl/kona)
 * breadboard
 * vírar til að klippa niður fyrir breadboard helst rauður og svartur
-
+## Ítarefni
+* Hvernig virkar Led http://electronics.howstuffworks.com/led1.htm
+* Hvenig virkar Servomótor 
+* Hvernig virkar UltraSonic RangeFinder
 Krækjur sem koma sér vel
 * Rasberry- pi http://www.instructables.com/id/Building-robots-with-Raspberry-Pi-and-Python/
 * Sýndar umhverfi fyrir Arduino þar sem þið búið til rafrásir og rökrásir https://circuits.io/
