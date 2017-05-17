@@ -1,3 +1,4 @@
+import RPi.GPIO as GPIO
 import time                                 ## Import ‘time’ library for a delay.
  
 GPIO.setmode(GPIO.BCM)                    ## Use BOARD pin numbering.
